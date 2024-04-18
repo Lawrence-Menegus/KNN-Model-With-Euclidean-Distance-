@@ -14,7 +14,8 @@ Here's a brief breakdown of the program:
 
 # Install the Package 
 
-## pip install scikit-learn 
+## pip install scikit-learn  
+<p> in terminal of python enviornment</p>
 
 <p> Can retrieve package from the link https://scikit-learn.org/stable/install.html</p>
 
