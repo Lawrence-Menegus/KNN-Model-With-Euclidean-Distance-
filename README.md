@@ -19,3 +19,6 @@ Here's a brief breakdown of the program:
 
 <p> Can retrieve package from the link https://scikit-learn.org/stable/install.html</p>
 
+
+## Contributor 
+<p> Lawrence Menegus </p>
